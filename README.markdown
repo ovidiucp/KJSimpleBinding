@@ -70,7 +70,6 @@ The `master` branch does not support ARC. If you use the `KJBindingManager` clas
 An experimental branch, `arc`, has the code from the `master` branch converted to ARC. It has not been extensively tested, but the ARC version will eventually be moved into `master`, and the `noarc` branch will contain the old code.
 
 
-
 ## Future Directions
 
 The following features are planned:
